@@ -6,7 +6,7 @@ from text import text_start
 from database import Database
 from aiogram import Bot, Dispatcher 
 
-TOKEN = '6096348756:AAHHRwdI2U60jGaQzcTjwQ2Zm2PdD6K3KHU'
+TOKEN = ''
 
 bot = Bot(TOKEN)
 dp = Dispatcher
